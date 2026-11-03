@@ -1,0 +1,18 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 密钥文件
+.env
+*.env
+
+# 会话数据
+sessions/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
